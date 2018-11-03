@@ -1,0 +1,16 @@
+2018/11/03 14:20:55 [agenda][info] abcde registed succeed
+2018/11/03 14:21:01 [agenda][info] aaa registed succeed
+2018/11/03 14:21:06 [agenda][info] bbb registed succeed
+2018/11/03 14:21:13 [agenda][info]abcde haved logged in
+2018/11/03 14:21:17 [agenda][info]abcde search all users
+2018/11/03 14:21:28 [agenda][info]abcde create a meeting {Title:Work Sponsor:abcde Participants:[aaa] StartTime:2016-10-10 10:00:00 +0000 UTC EndTime:2017-10-10 10:00:00 +0000 UTC Id:0}
+2018/11/03 14:21:34 [agenda][info]abcde create a meeting {Title:Study Sponsor:abcde Participants:[aaa] StartTime:2018-10-10 10:00:00 +0000 UTC EndTime:2019-10-10 10:00:00 +0000 UTC Id:1}
+2018/11/03 14:21:39 [agenda][info]add the participants( bbb ) in Work meeting succeed!
+2018/11/03 14:21:44 [agenda][info]delete the participants( aaa ) in Work meeting succeed!
+2018/11/03 14:21:58 [agenda][info]%s cancel the %s meeting
+abcdeWork
+2018/11/03 14:22:08 [agenda][info]abcde exit meeting Study succeed!
+2018/11/03 14:22:18 [agenda][info]%s delete all his meeting
+abcde
+2018/11/03 14:22:23 [agenda][info]abcde logged out!
+2018/11/03 14:22:23 [agenda][info]%s deletedabcde
